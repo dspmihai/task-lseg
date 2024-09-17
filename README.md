@@ -39,3 +39,11 @@ rm -rf venv
 
 rm -rf outputs
 ```
+
+# Excuses
+
+- There is no authentication or other security.
+- There are not enough comments in the code and this readme is light.
+- I know you will find a way to make it crash. I already know a couple ways myself (e.g. add one more line in stock_price_data_files/BAD_CSVS/CORRUPTED_CSV.csv the whole thing becomes unusable due to internal error). But I know how I should fix them.
+- This is not ready for production.
+- This is the best I can do in 2 hours.
